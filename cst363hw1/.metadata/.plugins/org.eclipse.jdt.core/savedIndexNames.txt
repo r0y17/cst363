@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+C:\Users\Roy\Desktop\cst363\.metadata\.plugins\org.eclipse.jdt.core
+2326672260.index
+942487430.index
+3623557781.index
+1771763946.index
+1765661716.index
+2196199803.index
+1224792815.index
+3344101981.index
+3061440056.index
+4054432266.index
+965095799.index
+2429500314.index
+1055768228.index
+2193824057.index
+1773661631.index
